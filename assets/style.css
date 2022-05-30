@@ -52,6 +52,7 @@ body {
   background: #18191c;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 #redbeanlink .triangle {
   top: -10px;
